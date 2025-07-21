@@ -60,6 +60,8 @@ streamlit run untitled:Untitled-1
 
 <img width="1470" height="956" alt="Zrzut ekranu 2025-07-21 o 13 45 10" src="https://github.com/user-attachments/assets/6e5e6ed2-333c-491e-9641-92c4786773e2" />
 
+<img width="1470" height="956" alt="Zrzut ekranu 2025-07-21 o 13 45 16" src="https://github.com/user-attachments/assets/c7f474c6-bf3c-490d-80f7-a45008a762d3" />
+
 
 ## Przykłady użycia
 
