@@ -57,10 +57,13 @@ streamlit run untitled:Untitled-1
 3. **Zadawaj pytania** - Wpisz pytanie o dokument i otrzymaj odpowiedź
 4. **Wyciągaj informacje** - Wybierz typ informacji do automatycznego wyciągnięcia
 
+## Wygląd intefejsu i działania 
 
 <img width="1470" height="956" alt="Zrzut ekranu 2025-07-21 o 13 45 10" src="https://github.com/user-attachments/assets/6e5e6ed2-333c-491e-9641-92c4786773e2" />
 
 <img width="1470" height="956" alt="Zrzut ekranu 2025-07-21 o 13 45 16" src="https://github.com/user-attachments/assets/c7f474c6-bf3c-490d-80f7-a45008a762d3" />
+
+<img width="1470" height="956" alt="Zrzut ekranu 2025-07-21 o 13 45 19" src="https://github.com/user-attachments/assets/5e29ff3b-cc41-44e6-924e-413e1c10c8fd" />
 
 
 ## Przykłady użycia
