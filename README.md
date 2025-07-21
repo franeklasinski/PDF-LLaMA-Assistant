@@ -57,6 +57,10 @@ streamlit run untitled:Untitled-1
 3. **Zadawaj pytania** - Wpisz pytanie o dokument i otrzymaj odpowiedź
 4. **Wyciągaj informacje** - Wybierz typ informacji do automatycznego wyciągnięcia
 
+
+<img width="1470" height="956" alt="Zrzut ekranu 2025-07-21 o 13 45 10" src="https://github.com/user-attachments/assets/6e5e6ed2-333c-491e-9641-92c4786773e2" />
+
+
 ## Przykłady użycia
 
 ### Pytania do dokumentu:
