@@ -50,6 +50,6 @@ Thumbs.db
 *.tmp
 *.temp
 
-# PDF test files (jeśli nie chcesz udostępniać testowych PDF-ów)
+# PDF test files 
 test_pdfs/
 *.pdf
